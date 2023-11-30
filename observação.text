@@ -1,0 +1,35 @@
+NAVIGATOR{
+Drawer:
+cria uma aba de navegação lateral que aparece ao apertar um botão com 3 linhas
+
+Stack:
+navega para a "tela inicial" ou para a "tela de historia" quando se aperta um botão especifico na tela "home"
+
+Tab:
+navegação apartir de uma aba na parte de baixo do celular
+}
+
+
+SCREENS{
+CreateStory:pagina de criação de historias
+
+CustomSidebarMenu:abre uma outra aba lateral quando clicado
+
+DashboardScreen:Tela inicial onde pode transportar-se para outras telas
+
+Feed:Tela de verificação de história
+
+LoadingScreen:Tela de Load
+
+LoginScreen:Tela para logar sua conta
+
+LogoutScreen:Tela para deslogar sua conta
+
+Profile:Tela de personalização de perfil
+
+StoryCard:Tela de avaliação de histórias
+
+StoryScreen:Tela de histórias
+
+temp_stories:Tela com os textos de história
+}
